@@ -1,0 +1,5 @@
+Python is an amazing and powerful programming language.
+It is widely used in Data Science, Machine Learning, and Web Development.
+Simple is better than complex.
+Learning IO operations in Python is quite straightforward and fun!
+Supercalifragilisticexpialidocious is an exceptionally long word.
